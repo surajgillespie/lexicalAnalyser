@@ -1,0 +1,2 @@
+create table table(int attr1 ,varchar(20) attr2) ;
+
